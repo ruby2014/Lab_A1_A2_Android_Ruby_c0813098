@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_add_product.xml" value="0.27291666666666664" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_maps.xml" value="0.25885416666666666" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_products.xml" value="0.27291666666666664" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_provider_location.xml" value="0.27291666666666664" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_providers.xml" value="0.27291666666666664" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/activity_update_product.xml" value="0.27291666666666664" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/item_simple_itemview.xml" value="0.27291666666666664" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/products_list.xml" value="0.27291666666666664" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/providers_list.xml" value="0.27291666666666664" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/providers_strings.xml" value="0.27291666666666664" />
+        <entry key="..\:/Assignment/app/src/main/res/layout/some_layout.xml" value="0.27291666666666664" />
+        <entry key="..\:/Assignment/app/src/main/res/menu/main_menu.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

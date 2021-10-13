@@ -1,0 +1,14 @@
+
+<resources>
+    <string-array name="providers" >
+        <item>Smith&amp;Smith</item>
+        <item>Deaken</item>
+        <item>Wells</item>
+    </string-array>
+
+    <string-array name="providers_labels" >
+        <item ><FONT COLOR="#FFFFFF"><b>Smith&amp;Smith</b></FONT></item>
+        <item ><FONT COLOR="#FFFFFF"><b>Deaken</b></FONT></item>
+        <item ><FONT COLOR="#FFFFFF"><b>Wells</b></FONT></item>
+    </string-array>
+</resources>
